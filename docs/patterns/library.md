@@ -82,7 +82,7 @@ View source: [chance.py](https://github.com/ideoforms/isobar/tree/master/isobar/
 | PWhite | White noise between `min` and `max`. |
 | PBrown | Brownian noise. |
 | PCoin | Coin toss, returning either 0 or 1 given some `probability`. |
-| PWalk | Random walk around list. |
+| PRandomWalk | Random walk around list. |
 | PChoice | Pick a random element from `values`, weighted by optional `weights`. |
 | PSample | Pick multiple random elements from `values`, weighted by optional `weights`, |
 | PShuffle | Shuffled list. |
